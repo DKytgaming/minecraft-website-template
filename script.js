@@ -1,5 +1,5 @@
 function copy() {
-    navigator.clipboard.writeText("play.hypixel.net").then(() => {
+    navigator.clipboard.writeText("play.hellnetwork.in").then(() => {
         console.log('Content copied to clipboard');
         /* Resolved - text copied to clipboard successfully */
       },() => {
