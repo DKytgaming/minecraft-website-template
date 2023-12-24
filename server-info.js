@@ -1,6 +1,6 @@
 // fetch("https://api.minetools.eu/ping/YourServerIP/Port") and without this two things do not edit anything or you may messup the code
 
-fetch("https://api.minetools.eu/ping/play.gamerweb.online/25565").then((discord1)=>{
+fetch("https://api.minetools.eu/ping/de2.ateex.cloud/30241").then((discord1)=>{
     console.log(discord1.status);
     return discord1.json();
 
